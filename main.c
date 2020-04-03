@@ -4,7 +4,7 @@
 int main()
 {
 
-    int x = 0;
+    int x = 10;
 
     if( x == 10){
 
